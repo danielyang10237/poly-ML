@@ -1,6 +1,6 @@
+/Filtering
+/Segmentation/__pycache__
 /Sentiment/amazon_sentiment_data
 /Sentiment/article_sarcasm_data
 /Sentiment/models
 /Sentiment/twitter_sentiment_data
-/Performance/classification_beta
-/Performance/reviews_labeled.csv
