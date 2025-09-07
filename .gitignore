@@ -1,0 +1,12 @@
+/Sentiment/sentiment_data
+/Sentiment/sarcasm_data
+/Performance/reviews_data
+/Performance/checkpoint.txt
+/Performance/model_epoch_2.pth
+/Performance/progress.txt
+.DS_Store
+# env files
+*.env
+.env
+.env.*
+**/.env
