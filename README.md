@@ -1,4 +1,4 @@
-# ML Models Repository
+# ML Classification Projects
 
 This repository contains several Natural Language Processing (NLP) projects focused on text analysis, sentiment classification, and performance categorization. The projects demonstrate various machine learning approaches including transformer models, BiLSTM networks, and large language model integration.
 
